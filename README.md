@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **herbet.thomas@outlook.fr**
 
-- 📄 Know about my experiences [Notion.so](Notion.so)
+- 📄 Know about my experiences [Notion.so](https://www.notion.so/thomasherbet/QUI-SUIS-JE-d58ce1deb3ed4985997984fd679345bc)
 
 - ⚡ Fun fact **I'm data alcoholic, chhht don't say it.**
 
