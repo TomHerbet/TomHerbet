@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Scikit learn**
 
-- 📝 I regularly write articles on [Notion.so](Notion.so)
+- 📝 I regularly write articles on [Notion.so](https://www.notion.so/thomasherbet/Bienvenue-8f2f6fba36294a0aaf5aea01b221e36d)
 
 - 💬 Ask me about **Numpy, Pandas, Matplotlib, Seaborn, SQL,**
 
